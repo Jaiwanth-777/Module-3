@@ -55,8 +55,6 @@ Thus,the program has been executed successfully.
 
 # Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
-Name: mohammedibrahim
-
 
 ## 🎯 Aim
 To write a Python program that accepts a string and removes the character at a specified index.
